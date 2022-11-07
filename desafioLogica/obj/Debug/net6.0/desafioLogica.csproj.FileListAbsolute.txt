@@ -1,0 +1,15 @@
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\obj\Debug\net6.0\desafioLogica.csproj.AssemblyReference.cache
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\obj\Debug\net6.0\desafioLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\obj\Debug\net6.0\desafioLogica.AssemblyInfoInputs.cache
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\obj\Debug\net6.0\desafioLogica.AssemblyInfo.cs
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\obj\Debug\net6.0\desafioLogica.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\bin\Debug\net6.0\desafioLogica.exe
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\bin\Debug\net6.0\desafioLogica.deps.json
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\bin\Debug\net6.0\desafioLogica.runtimeconfig.json
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\bin\Debug\net6.0\desafioLogica.dll
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\bin\Debug\net6.0\desafioLogica.pdb
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\obj\Debug\net6.0\desafioLogica.dll
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\obj\Debug\net6.0\refint\desafioLogica.dll
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\obj\Debug\net6.0\desafioLogica.pdb
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\obj\Debug\net6.0\desafioLogica.genruntimeconfig.cache
+C:\xampp\htdocs\TIAcademy-C#\desafioLogica\obj\Debug\net6.0\ref\desafioLogica.dll
